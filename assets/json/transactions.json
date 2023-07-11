@@ -1,0 +1,95 @@
+[
+    {
+      "icon": "assets/images/netflix.png",
+      "subtitle": "Month subscription",
+      "amount": 325,
+      "type": "NETFLIX"
+    },
+    {
+        "icon": "assets/images/wallet.png",
+        "subtitle": "External Payment",
+        "amount": 652,
+        "type": "PAYPAL"
+      },
+      {
+        "icon": "assets/images/paypal.png",
+        "subtitle": "General",
+        "amount": 296,
+        "type": "GENERAL"
+      },
+      {
+        "icon": "assets/images/netflix.png",
+        "subtitle": "Month subscription",
+        "amount": 325,
+        "type": "NETFLIX"
+      },
+      {
+          "icon": "assets/images/wallet.png",
+          "subtitle": "External Payment",
+          "amount": 652,
+          "type": "PAYPAL"
+        },
+        {
+          "icon": "assets/images/paypal.png",
+          "subtitle": "General",
+          "amount": 296,
+          "type": "GENERAL"
+        },
+        {
+          "icon": "assets/images/netflix.png",
+          "subtitle": "Month subscription",
+          "amount": 325,
+          "type": "NETFLIX"
+        },
+        {
+            "icon": "assets/images/wallet.png",
+            "subtitle": "External Payment",
+            "amount": 652,
+            "type": "PAYPAL"
+          },
+          {
+            "icon": "assets/images/paypal.png",
+            "subtitle": "General",
+            "amount": 296,
+            "type": "GENERAL"
+          },
+          {
+            "icon": "assets/images/netflix.png",
+            "subtitle": "Month subscription",
+            "amount": 325,
+            "type": "NETFLIX"
+          },
+          {
+              "icon": "assets/images/wallet.png",
+              "subtitle": "External Payment",
+              "amount": 652,
+              "type": "PAYPAL"
+            },
+            {
+              "icon": "assets/images/paypal.png",
+              "subtitle": "General",
+              "amount": 296,
+              "type": "GENERAL"
+            },
+            {
+              "icon": "assets/images/netflix.png",
+              "subtitle": "Month subscription",
+              "amount": 325,
+              "type": "NETFLIX"
+            },
+            {
+                "icon": "assets/images/wallet.png",
+                "subtitle": "External Payment",
+                "amount": 652,
+                "type": "PAYPAL"
+              },
+              {
+                "icon": "assets/images/paypal.png",
+                "subtitle": "General",
+                "amount": 296,
+                "type": "GENERAL"
+              }
+     
+  ]
+
+  
